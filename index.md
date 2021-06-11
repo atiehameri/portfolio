@@ -1,13 +1,29 @@
-## Welcome to GitHub Pages
+## Atieh Ameri Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/atiehameri/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This page shows some of the projects I accomplished. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Project : Cleaning a text file
 
+It is part of the process, in which I cleaned and processessd the text I had collected the texts from websites and prepared them for furthur analysis. 
+
+
+
+
+
+
+
+
+### Project : Data visualization, drawign two line Diagram
+![alt text](https://github.com/atiehameri/portfolio/blob/master/Two_Line_Diagram/pictures/Food%20and%20Drink%20Related%20Activities%20Line%20plot.png" Line Diagram")
+
+
+
+
+
+
+It is part of the process, in which I cleaned and processessd the text I had collected the texts from websites and prepared them for furthur analysis. 
 ```markdown
 Syntax highlighted code block
 
