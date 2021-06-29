@@ -1,4 +1,12 @@
-## Welcome to GitHub Pages
+##             Atieh Ameri Data Sciecne Portfolio
+
+### Educaiton 
+* 2014-2021 Ph.D. In Dedign. North carolina State University 
+* 2007-2010 Master of Sciecne in Architecture. SBU University 
+* 2002-2017 Bachelor of Sciecne in Architecture. Tehran University
+<br/>
+
+### Projects<br/>
 
 You can use the [editor on GitHub](https://github.com/atiehameri/portfolio/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
